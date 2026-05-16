@@ -1,8 +1,4 @@
 from serial import Serial, SerialException
-# TODO: Commented out while keyboard input is being worked on.
-# from pynput.keyboard import Key, Controller
-
-# keyboard = Controller
 
 
 class juno:

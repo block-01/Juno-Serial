@@ -2,5 +2,4 @@ pyserial
 pytest
 argparse
 pre-commit
-pynput
 termcolor
